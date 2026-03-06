@@ -22,68 +22,59 @@ Beyond technology, I am a trained Bharatanatyam and Kuchipudi dancer. Balancing 
 
 Currently building strong foundations in cybersecurity  while continuing my journey in classical dance — committed to growing in both with equal dedication.
 
-## ⚡ Languages and Tools
+
+<h2>⚡ Languages and Tools</h2>
 
 <table>
 <tr>
-<td align="center" width="33%">
-
-### 💻 Languages
-
-<img src="https://skillicons.dev/icons?i=python,c,java,solidity" />
-
-</td>
-
-<td align="center" width="33%">
-
-### 🌐 Web Development
-
-<img src="https://skillicons.dev/icons?i=html,css,js,flask,figma" />
-
-<br>
-
-Tkinter
-
-</td>
-
-<td align="center" width="33%">
-
-### 🗄 Database
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-
-</td>
+<td align="center"><b>Languages</b></td>
+<td align="center"><b>Web Development</b></td>
+<td align="center"><b>Database</b></td>
 </tr>
 
 <tr>
 <td align="center">
+<img src="https://skillicons.dev/icons?i=python,java,c,solidity" />
+</td>
 
-### ⚙ DevOps & Deployment
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html,js,flask,figma" />
+</td>
 
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</td>
+</tr>
+
+<tr>
+<td align="center"><b>Cybersecurity</b></td>
+<td align="center"><b>Digital Forensics</b></td>
+<td align="center"><b>DevOps & Deployment</b></td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://cdn.simpleicons.org/wireshark" height="40"/>
+<img src="https://cdn.simpleicons.org/burpsuite" height="40"/>
+<img src="https://cdn.simpleicons.org/metasploit" height="40"/>
+<img src="https://cdn.simpleicons.org/nmap" height="40"/>
+
+</td>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/autopsy" height="40"/>
+<img src="https://cdn.simpleicons.org/linux" height="40"/>
+</td>
+
+<td align="center">
 <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,aws,gitlab" />
-
-</td>
-
-<td align="center">
-
-### 🔐 Cybersecurity Tools
-
-Wireshark  
-Burp Suite  
-Nmap  
-Zenmap  
-Metasploit  
-
-</td>
-
-<td align="center">
-
-### 🧪 Digital Forensics
-
-Autopsy  
-Volatility  
-Disk Image Creation  
-
 </td>
 </tr>
 </table>
+
+
+
+
+
+
+
