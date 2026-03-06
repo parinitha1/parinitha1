@@ -21,3 +21,69 @@ I’m a cybersecurity enthusiast driven by curiosity and discipline. I’m deepl
 Beyond technology, I am a trained Bharatanatyam and Kuchipudi dancer. Balancing classical art and cybersecurity has shaped my mindset — precision, consistency, focus, and performance under pressure guide me in both worlds.
 
 Currently building strong foundations in cybersecurity  while continuing my journey in classical dance — committed to growing in both with equal dedication.
+
+## ⚡ Languages and Tools
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=python,c,java,solidity" />
+
+</td>
+
+<td align="center" width="33%">
+
+### 🌐 Web Development
+
+<img src="https://skillicons.dev/icons?i=html,css,js,flask,figma" />
+
+<br>
+
+Tkinter
+
+</td>
+
+<td align="center" width="33%">
+
+### 🗄 Database
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### ⚙ DevOps & Deployment
+
+<img src="https://skillicons.dev/icons?i=git,docker,kubernetes,aws,gitlab" />
+
+</td>
+
+<td align="center">
+
+### 🔐 Cybersecurity Tools
+
+Wireshark  
+Burp Suite  
+Nmap  
+Zenmap  
+Metasploit  
+
+</td>
+
+<td align="center">
+
+### 🧪 Digital Forensics
+
+Autopsy  
+Volatility  
+Disk Image Creation  
+
+</td>
+</tr>
+</table>
